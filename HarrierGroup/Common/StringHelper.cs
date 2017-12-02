@@ -31,7 +31,7 @@ namespace HarrierGroup.Common
 
 	public partial class StringHelper
 	{
-		public static string UnMike(string s) => s.Replace("Mike", "Kristyn");
+		public static string UnMike(string s) => s.Replace("Mike", "Kristyn Ann");
 
 
 		public static string ReplaceString(string str, string oldValue, string newValue, StringComparison comparison)
